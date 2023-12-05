@@ -1,0 +1,22 @@
+# ATM Simulation Library Requirements
+
+# This file lists all the dependencies required to run the ATM Simulation Library.
+# As of now, the library uses only the Python Standard Library, hence there are no external dependencies.
+# This library is compatible with Python 3.6 and later.
+
+# Standard Library (No action required):
+# - No external dependencies are required as the library uses only the Python Standard Library.
+
+# Future Dependencies
+# In future updates, if there are any external libraries required, they will be listed here.
+# For example, if we decide to add database support or a web interface, relevant packages will be added.
+# Examples (uncomment if needed in future updates):
+# sqlalchemy==1.3.19
+# Flask==1.1.2
+
+# It's always a good practice to work in a virtual environment to avoid conflicts with other packages.
+# You can create a virtual environment in Python using:
+# python -m venv venv
+
+# After activating the virtual environment, you can install the required packages using:
+# pip install -r requirements.txt
